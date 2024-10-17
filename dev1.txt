@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+To chek the new branch.
+=======
+jvnhvbdkc
+jhc dbc dn 
+dndgcdhcdc
+cgdcvdc 
+
+>>>>>>> main
